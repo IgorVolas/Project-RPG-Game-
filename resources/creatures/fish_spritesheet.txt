@@ -1,0 +1,2 @@
+resources/creatures/farming_fishing.png
+walk_down 1 448 288 32 32
